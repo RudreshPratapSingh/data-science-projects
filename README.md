@@ -1,6 +1,3 @@
-# data-science-projects
-End-to-end Data Science projects including ML prediction systems and business analytics
-
 # Data Science Projects Portfolio
 
 This repository contains end-to-end Data Science and Machine Learning projects developed using Python.
