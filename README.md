@@ -1,28 +1,38 @@
-# Data Science Projects Portfolio
+
+📊 Data Science Projects Portfolio
 
 This repository contains end-to-end Data Science and Machine Learning projects developed using Python.
-The projects demonstrate skills in data analysis, machine learning, and business insights.
+Each project demonstrates skills in data analysis, machine learning, model deployment, and business insights.
 
-## 📂 Projects Included
+📂 Projects Included
+🏏 IPL Win Predictor
 
-### 🏏 IPL Win Predictor
-Predicts the probability of winning an IPL match based on match conditions using machine learning.
+Predicts the probability of winning an IPL match based on match conditions using machine learning techniques.
 
-### 👥 Customer Churn Prediction
-A classification-based project to predict customer churn and help businesses reduce customer attrition.
+👥 Customer Churn Prediction
 
-### ✈️ British Airways Data Science Simulation (Forage)
-Business-focused data analysis project involving customer review analysis and insight generation.
+A classification-based machine learning project to predict customer churn and help businesses reduce customer attrition.
 
-## 🛠 Skills & Tools
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Streamlit
-- Jupyter Notebook
+✈️ British Airways Data Science Simulation (Forage)
 
-## 👤 Author
-**Rudresh Pratap Singh**  
-GitHub: https://github.com/rudreshpratapsingh
+A business-focused data science project involving customer review analysis, insight generation, and data-driven recommendations.
 
+🏥 Multiple Disease Prediction System
+
+A machine learning–based healthcare application that predicts the risk of Diabetes, Heart Disease, and Parkinson’s Disease using clinical and biomedical data.
+Includes an interactive Streamlit web interface for real-time predictions.
+
+🛠 Skills & Tools
+
+Programming: Python
+
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+Web & Deployment: Streamlit
+
+Tools: Jupyter Notebook, Git, GitHub
+
+👤 Author
+
+Rudresh Pratap Singh
+🔗 GitHub: https://github.com/rudreshpratapsingh
