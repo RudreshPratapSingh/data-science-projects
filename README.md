@@ -5,6 +5,7 @@ This repository contains end-to-end Data Science and Machine Learning projects d
 Each project demonstrates skills in data analysis, machine learning, model deployment, and business insights.
 
 📂 Projects Included
+
 🏏 IPL Win Predictor
 
 Predicts the probability of winning an IPL match based on match conditions using machine learning techniques.
