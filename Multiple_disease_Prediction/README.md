@@ -1,28 +1,38 @@
-# Data Science Projects Portfolio
+# 🏥 Multiple Disease Prediction System
 
-This repository contains end-to-end Data Science and Machine Learning projects developed using Python.
-The projects demonstrate skills in data analysis, machine learning, and business insights.
+A **machine learning–based healthcare application** that predicts the risk of **Diabetes, Heart Disease, and Parkinson’s Disease** using clinical and biomedical data.  
+Includes an interactive **Streamlit web interface** for real-time predictions.
 
-## 📂 Projects Included
+---
 
-### 🏏 IPL Win Predictor
-Predicts the probability of winning an IPL match based on match conditions using machine learning.
+## 📂 Project Overview
 
-### 👥 Customer Churn Prediction
-A classification-based project to predict customer churn and help businesses reduce customer attrition.
+- Predicts **Diabetes, Heart Disease, and Parkinson’s Disease**.  
+- Interactive **Streamlit app** for user input and instant results.  
+- Pre-trained ML models with **accuracy ~78–80%**.  
+- Modular and scalable for adding more diseases in the future.
 
-### ✈️ British Airways Data Science Simulation (Forage)
-Business-focused data analysis project involving customer review analysis and insight generation.
+---
 
-## 🛠 Skills & Tools
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Streamlit
-- Jupyter Notebook
+## 🧰 Tools & Technologies
 
-## 👤 Author
-**Rudresh Pratap Singh**  
-GitHub: https://github.com/rudreshpratapsingh
+- **Programming:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit  
+- **Model Storage:** Pickle (`.sav` files)  
+- **Web Interface:** Streamlit  
+
+---
+
+## ⚙️ How It Works
+
+- Users enter relevant medical parameters:
+  - Diabetes → glucose level, BMI, blood pressure, age, etc.  
+  - Heart Disease → age, cholesterol, chest pain type, etc.  
+  - Parkinson’s → voice signal features like MDVP:Fo(Hz), jitter, shimmer, etc.  
+- Pre-trained models are loaded from `.sav` files.  
+- Streamlit app displays predictions immediately.
+
+---
+
+## 📁 Project Structure
 
