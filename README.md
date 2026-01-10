@@ -1,48 +1,41 @@
+# 📊 Data Science Projects Portfolio
 
-📊 Data Science Projects Portfolio
+This repository contains **end-to-end Data Science and Machine Learning projects** developed using **Python**.  
+Each project demonstrates skills in **data analysis, machine learning, model deployment, and business insights**.
 
-This repository contains end-to-end Data Science and Machine Learning projects developed using Python.
-Each project demonstrates skills in data analysis, machine learning, model deployment, and business insights.
+---
 
-📂 Projects Included
+## 📂 Projects Included
 
-🏏 IPL Win Predictor
+### 🏏 IPL Win Predictor
+- Predicts the probability of winning an IPL match based on match conditions.
+- Uses machine learning techniques for accurate prediction.
 
-Predicts the probability of winning an IPL match based on match conditions.
+### 👥 Customer Churn Prediction
+- Predicts customer churn using classification models.
+- Helps businesses reduce customer attrition.
 
-Uses machine learning techniques for accurate prediction.
+### ✈️ British Airways Data Science Simulation (Forage)
+- Analyzes customer reviews to generate actionable business insights.
+- Focused on data-driven decision making.
 
-👥 Customer Churn Prediction
+### 🏥 Multiple Disease Prediction System
+- Predicts **Diabetes, Heart Disease, and Parkinson’s Disease** using medical data.
+- Interactive **Streamlit web interface** for real-time predictions.
+- Uses supervised ML models with accuracy ~78–80%.
 
-Predicts customer churn using classification models.
+---
 
-Helps businesses reduce customer attrition.
+## 🛠 Skills & Tools
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Web & Deployment:** Streamlit
+- **Tools:** Jupyter Notebook, Git, GitHub
 
-✈️ British Airways Data Science Simulation (Forage)
+---
 
-Analyzes customer reviews to generate actionable business insights.
+## 👤 Author
+**Rudresh Pratap Singh**  
+🔗 GitHub: [https://github.com/rudreshpratapsingh](https://github.com/rudreshpratapsingh)
 
-Focused on data-driven decision making.
 
-🏥 Multiple Disease Prediction System
-
-Predicts Diabetes, Heart Disease, and Parkinson’s Disease using medical data.
-
-Interactive Streamlit web interface for real-time predictions.
-
-Uses supervised ML models with accuracy ~78–80%.
-
-🛠 Skills & Tools
-
-Programming: Python
-
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-Web & Deployment: Streamlit
-
-Tools: Jupyter Notebook, Git, GitHub
-
-👤 Author
-
-Rudresh Pratap Singh
-🔗 GitHub: https://github.com/rudreshpratapsingh
