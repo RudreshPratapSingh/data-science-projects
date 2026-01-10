@@ -8,20 +8,29 @@ Each project demonstrates skills in data analysis, machine learning, model deplo
 
 🏏 IPL Win Predictor
 
-Predicts the probability of winning an IPL match based on match conditions using machine learning techniques.
+Predicts the probability of winning an IPL match based on match conditions.
+
+Uses machine learning techniques for accurate prediction.
 
 👥 Customer Churn Prediction
 
-A classification-based machine learning project to predict customer churn and help businesses reduce customer attrition.
+Predicts customer churn using classification models.
+
+Helps businesses reduce customer attrition.
 
 ✈️ British Airways Data Science Simulation (Forage)
 
-A business-focused data science project involving customer review analysis, insight generation, and data-driven recommendations.
+Analyzes customer reviews to generate actionable business insights.
+
+Focused on data-driven decision making.
 
 🏥 Multiple Disease Prediction System
 
-A machine learning–based healthcare application that predicts the risk of Diabetes, Heart Disease, and Parkinson’s Disease using clinical and biomedical data.
-Includes an interactive Streamlit web interface for real-time predictions.
+Predicts Diabetes, Heart Disease, and Parkinson’s Disease using medical data.
+
+Interactive Streamlit web interface for real-time predictions.
+
+Uses supervised ML models with accuracy ~78–80%.
 
 🛠 Skills & Tools
 
